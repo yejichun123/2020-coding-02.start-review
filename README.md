@@ -69,7 +69,8 @@ h1 {color: red;}
 ```html
 <div class="wrap">
 	<p>
-		<div>아버지를 아버지라...
+		<div>
+			아버지를 아버지라...
 			<div>-홍길동-</div>
 		</div>
 		<img src="./img/hong.jpg" alt="홍길동">
